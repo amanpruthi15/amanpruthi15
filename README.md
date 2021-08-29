@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanpruthi15
+- 👋 Hi, I’m @amanpruthi15 - Aman Pruthi
 - 👀 I’m interested in molecular biology and functional genomics of plants
 - 🌱 I’m currently learning phylogenetics and land plant evolution
 - 💞️ I’m looking to collaborate on projects related based on plant proteins or breeding techniques 
