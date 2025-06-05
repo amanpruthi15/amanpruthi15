@@ -59,4 +59,4 @@ Research: *Transcriptome analysis of Apple Stem Groove Virus (ASGV) infection in
 
 Feel free to explore my repositories, collaborate on bioinformatics projects, or reach out for any potential opportunities. Let's advance scientific discovery together!
 
-[LinkedIn](#) | [Email](mailto:aman.pruthi@example.com) | [ResearchGate](#)
+[LinkedIn](https://www.linkedin.com/in/aman-pruthi-a598421bb/) | [Email](mailto:aman.pruthi@example.com) | [ResearchGate](https://www.researchgate.net/profile/Aman-Pruthi-2?ev=hdr_xprf)
